@@ -6,6 +6,7 @@
   height: 100vh;
   font-family:Arial, Helvetica, sans-serif;
 }
+
 .header{
   flex: 30%;
   background-color: tomato;
@@ -13,6 +14,13 @@
   display: flex;
   justify-content: center;
   align-items: center;
+}
+.welcome{
+  font-family:'Courier New', Courier, monospace;
+  text-align: center;
+  font-size: larger;
+
+
 }
 .header input {
   width: 200px;

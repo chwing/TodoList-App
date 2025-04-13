@@ -34,8 +34,11 @@ const App: FC  =() => {
   }
   return (
     <div className="App">
+            <p className='welcome'>This is Oussama's todolist; Hope you're having a productive day!   </p>
+
       <div className="header">
-        <div className="inputContainer">
+
+        <div className="inputCon">
           <input
             type="text"
             placeholder="Task..."
